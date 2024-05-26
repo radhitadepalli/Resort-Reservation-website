@@ -11,7 +11,6 @@ const listingSchema = new Schema({
     },
     description: String,
     image: {
-        
         url: {
             type: String,
             default: "https:media.istockphoto.com/id/157373207/photo/balanced-stones-on-a-pebble-beach-during-sunset.jpg?s=2048x2048&w=is&k=20&c=OX3HgrIrYiVoiaqBkxpCh8nPcv7MgoKFbHwnSrwMIeQ=",
